@@ -42,13 +42,6 @@ On load, the site fetches the current year's calendar. If no races are returned 
     └── etc...
 ```
 
-## Running locally
-
-No build step needed. Just open `index.html` in a browser, or serve it with any static file server:
-
-```bash
-npx serve .
-```
 
 ## Disclaimer
 

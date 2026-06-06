@@ -1,4 +1,4 @@
-# F1 Schedule
+# Calendar
 
 A lightweight, unofficial fan site that shows the current Formula 1 season calendar with session times, a live countdown to the next race, and automatic updates when the schedule changes.
 
